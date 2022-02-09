@@ -5,16 +5,21 @@ as a testing approach with single gherkin language and data-driven style. Its us
 
 pages folder :
 This folder contain some files that initiate all of page elements, also their action as objects.
+
 steps folder :
-This folder contain some files that initiate any reusable steps.
-Its steps should have direct relations to specific test files.
+This folder contain some files that initiate any reusable steps.Its steps should have direct relations to specific test files.
+
 runners folder:
 This folder contain some files that test cases executed.
+
 text folder :
 This folder contains some expected text that used in step folder.
+
 utilities folder :
 This folder contains some mrthods that used in step folder for reducing code duplication.
+
 feature file :
 Its can contain some reusable steps for specific test cases that use data-driven or gherkin language on the same test files.
+
 target folder :
 This folder for saving result file of report that generate after tests execute has finished.
