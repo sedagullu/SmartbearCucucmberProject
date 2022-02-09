@@ -13,7 +13,7 @@ This folder contain some files that test cases executed.
 text folder :
 This folder contains some expected text that used in step folder.
 utilities folder :
-Thi folder contains some mrthods that used in step folder for reducing code duplication.
+This folder contains some mrthods that used in step folder for reducing code duplication.
 feature file :
 Its can contain some reusable steps for specific test cases that use data-driven or gherkin language on the same test files.
 target folder :
