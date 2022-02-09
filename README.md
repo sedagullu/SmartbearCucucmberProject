@@ -1,6 +1,6 @@
 # SmartbearCucucmberProject
 
-This is automated web testing for any web application. Its using page object model as a pattern structure and BDD (Behavior Driven Development) framework 
+This is automated web testing for smart bear web application. Its using page object model as a pattern structure and BDD (Behavior Driven Development) framework 
 as a testing approach with single gherkin language and data-driven style. Its using 4 folders and 1 file in the root directory.
 
 pages folder :
